@@ -5,7 +5,7 @@ Dependencies:
 * Tensorflow 2
 * Numpy
 
-* PPL EMBEDDINGS:
+## PPL EMBEDDINGS:
 
 
 1 conv1_1
